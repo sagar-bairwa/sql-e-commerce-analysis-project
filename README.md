@@ -69,17 +69,21 @@ The objective was to transform raw transactional data into actionable business i
 
 ![Customer Distribution](screenshots/city_wise_customer_distribution.png)
 
+
 ### Monthly Revenue Trend
 
 ![Monthly Revenue Trend](screenshots/monthly_revenue_trend.png)
+
 
 ### Top 5 High-Value Customers
 
 ![Top Customers](screenshots/top_5_high_value_customers.png)
 
+
 ### Top 5 Most Sold Products
 
 ![Most Sold Products](screenshots/top_5_most_sold_products.png)
+
 
 ### Top-Selling Product per Category
 
