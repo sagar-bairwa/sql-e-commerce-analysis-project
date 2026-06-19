@@ -8,13 +8,13 @@ The objective was to transform raw transactional data into actionable business i
 
 ---
 
-## 🎯 Business Questions Addressed
+## 🎯 Business Problems Solved
 
-* Which products generate the highest sales?
-* Who are the most valuable customers?
-* Which cities contribute the most customers?
-* How does revenue change over time?
-* Which products perform best within each category?
+- Identified top revenue-generating customers
+- Analyzed monthly sales performance trends
+- Discovered the most sold products
+- Evaluated customer distribution across cities
+- Ranked top-performing products within each category
 
 ---
 
@@ -28,14 +28,19 @@ The objective was to transform raw transactional data into actionable business i
 
 ## 🧠 SQL Concepts Demonstrated
 
-* SELECT, WHERE, ORDER BY
-* GROUP BY & HAVING
-* Aggregate Functions
-* INNER JOIN & LEFT JOIN
-* CASE Statements
-* Common Table Expressions (CTEs)
-* Window Functions
-* RANK(), DENSE_RANK(), ROW_NUMBER()
+`SELECT`
+`WHERE`
+`ORDER BY`
+`GROUP BY`
+`HAVING`
+`JOINS`
+`AGGREGATIONS`
+`CASE`
+`CTEs`
+`WINDOW FUNCTIONS`
+`RANK()`
+`DENSE_RANK()`
+`ROW_NUMBER()`
 
 ---
 
@@ -95,24 +100,14 @@ sql-e-commerce-analysis-project
 
 ---
 
-## 🚀 What I Learned
-
-* Writing business-focused SQL queries
-* Working with relational datasets
-* Applying joins and aggregations effectively
-* Using window functions for advanced analysis
-* Translating business questions into data-driven insights
-
----
-
 ## 👨‍💻 Author
 
-**Sagar Bairwa**
+Sagar Bairwa
 
-Aspiring Data Analyst
+B.Tech CSE Student | Aspiring Data Analyst
 
-* GitHub: https://github.com/sagar-bairwa
-* LinkedIn: [Add Your LinkedIn Profile]
+📍 Haryana, India
 
-```
-```
+🔗 GitHub: https://github.com/sagar-bairwa
+
+🔗 LinkedIn: www.linkedin.com/in/sagarbairwa
